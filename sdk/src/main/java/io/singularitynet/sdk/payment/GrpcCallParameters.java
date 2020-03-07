@@ -1,4 +1,4 @@
-package io.singularitynet.sdk.client;
+package io.singularitynet.sdk.payment;
 
 import io.grpc.MethodDescriptor;
 import io.grpc.CallOptions;

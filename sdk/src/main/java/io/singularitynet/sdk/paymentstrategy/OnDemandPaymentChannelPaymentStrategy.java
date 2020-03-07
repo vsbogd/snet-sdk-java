@@ -20,7 +20,6 @@ import io.singularitynet.sdk.mpe.BlockchainPaymentChannelManager;
 import io.singularitynet.sdk.client.PaymentStrategy;
 import io.singularitynet.sdk.client.ServiceClient;
 import io.singularitynet.sdk.client.Sdk;
-import io.singularitynet.sdk.client.GrpcCallParameters;
 
 /**
  * Payment channel strategy which manages channel on demand. It tries to find

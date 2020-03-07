@@ -1,6 +1,7 @@
 package io.singularitynet.sdk.client;
 
 import io.singularitynet.sdk.payment.Payment;
+import io.singularitynet.sdk.payment.GrpcCallParameters;
 
 /**
  * The strategy provides a payment for the client call.

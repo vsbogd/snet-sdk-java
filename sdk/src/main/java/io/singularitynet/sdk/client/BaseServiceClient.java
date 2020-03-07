@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 
 import io.singularitynet.sdk.daemon.DaemonConnection;
 import io.singularitynet.sdk.payment.Payment;
+import io.singularitynet.sdk.payment.GrpcCallParameters;
 import io.singularitynet.sdk.registry.MetadataProvider;
 import io.singularitynet.sdk.mpe.PaymentChannelStateProvider;
 import io.singularitynet.sdk.freecall.FreeCallStateService;

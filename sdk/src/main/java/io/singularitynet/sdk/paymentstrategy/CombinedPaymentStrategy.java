@@ -5,9 +5,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import io.singularitynet.sdk.payment.Payment;
+import io.singularitynet.sdk.payment.GrpcCallParameters;
 import io.singularitynet.sdk.client.PaymentStrategy;
 import io.singularitynet.sdk.client.ServiceClient;
-import io.singularitynet.sdk.client.GrpcCallParameters;
 
 /**
  * Payment strategy which combines a list of the underlying strategies. It gets

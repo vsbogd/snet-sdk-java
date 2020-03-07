@@ -10,13 +10,13 @@ import io.singularitynet.sdk.common.Utils;
 import io.singularitynet.sdk.ethereum.Ethereum;
 import io.singularitynet.sdk.ethereum.Identity;
 import io.singularitynet.sdk.payment.Payment;
+import io.singularitynet.sdk.payment.GrpcCallParameters;
 import io.singularitynet.sdk.freecall.FreeCallPayment;
 import io.singularitynet.sdk.freecall.FreeCallAuthToken;
 import io.singularitynet.sdk.registry.MetadataProvider;
 import io.singularitynet.sdk.registry.EndpointGroup;
 import io.singularitynet.sdk.client.ServiceClient;
 import io.singularitynet.sdk.client.PaymentStrategy;
-import io.singularitynet.sdk.client.GrpcCallParameters;
 
 /**
  * Free call payment strategy implementation. Free call auth token emitted by
