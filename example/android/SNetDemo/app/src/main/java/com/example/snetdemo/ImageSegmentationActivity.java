@@ -27,6 +27,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import io.grpc.ManagedChannel;
+import io.grpc.okhttp.OkHttpChannelBuilder;
 import io.singularitynet.sdk.client.PaymentStrategy;
 import io.singularitynet.sdk.client.ServiceClient;
 import io.singularitynet.sdk.paymentstrategy.OnDemandPaymentChannelPaymentStrategy;
@@ -65,6 +67,7 @@ public class ImageSegmentationActivity extends SnetDemoActivity
     private TextView textViewResponseTime;
 
     private Bitmap decodedBitmap = null;
+
 
     private long serviceResponseTime = 0;
 

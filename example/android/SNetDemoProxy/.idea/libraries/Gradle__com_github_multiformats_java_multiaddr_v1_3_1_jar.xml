@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.multiformats:java-multiaddr:v1.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.multiformats/java-multiaddr/v1.3.1/85ee0acc6380a575c9a2c66f6d49470ed9996c7b/java-multiaddr-v1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.multiformats/java-multiaddr/v1.3.1/928bd70619b5f4f5ae465b6cd7cfbf7d3a4c7a74/java-multiaddr-v1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

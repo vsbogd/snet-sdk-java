@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ipfs:java-ipfs-http-client:1.2.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ipfs/java-ipfs-http-client/1.2.3/852425a6156e7bb2e99755fb6ea07e5650e5e601/java-ipfs-http-client-1.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ipfs/java-ipfs-http-client/1.2.3/7de22246e3a889f7a64a3a5d74290ae1c307ee99/java-ipfs-http-client-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

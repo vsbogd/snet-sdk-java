@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.singnet.snet-sdk-java:snet-sdk-java:0.3.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.singnet.snet-sdk-java/snet-sdk-java/0.3.2/455367819318417c57023046bcbd541bf89d18b1/snet-sdk-java-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.singnet.snet-sdk-java/snet-sdk-java/0.3.2/419c987077da6fcfa2a33d2b11c218a7e33df31f/snet-sdk-java-0.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
