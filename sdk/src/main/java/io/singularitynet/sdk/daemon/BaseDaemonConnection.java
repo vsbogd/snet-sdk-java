@@ -70,7 +70,7 @@ public class BaseDaemonConnection implements DaemonConnection {
     }
     
     // TODO: make this part of the configuration
-    private static int MAX_GRPC_INBOUND_MESSAGE_SIZE = 1 << 24;
+    private static int MAX_GRPC_INBOUND_MESSAGE_SIZE = 40 * (1 << 20);
 
     private ManagedChannel getChannel() {
         endpoint = endpointSelector.nextEndpoint();
